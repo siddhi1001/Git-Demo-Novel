@@ -1,3 +1,6 @@
+==========
+characters
+==========
 Its folder for characters in my story.
 I have written two stories over here.
 These changes are for GUI
