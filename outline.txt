@@ -1,5 +1,5 @@
 =======
-outline
+Outline
 =======
 Its Siddhi outline text file.
 here I am creating text files to commit

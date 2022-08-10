@@ -1,5 +1,5 @@
 ==========
-characters
+Characters
 ==========
 Its folder for characters in my story.
 I have written two stories over here.
